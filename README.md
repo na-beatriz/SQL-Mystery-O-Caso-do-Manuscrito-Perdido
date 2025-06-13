@@ -4,4 +4,4 @@ Um valioso e raro manuscrito desapareceu da Biblioteca Central durante uma noite
 
 Você consegue descobrir quem pegou o manuscrito?
 
-Exercício criado pelaa instrutora Leticia Pires no bootcamp Engenharia de Dados da comunidade Data Girls.
+Exercício criado pela instrutora Leticia Pires no bootcamp Engenharia de Dados da comunidade Data Girls.
