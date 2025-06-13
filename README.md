@@ -3,3 +3,5 @@
 Um valioso e raro manuscrito desapareceu da Biblioteca Central durante uma noite chuvosa. Sabe-se que apenas pessoas com acesso autorizado puderam entrar no acervo naquela noite. A investigação depende da análise de registros: livros emprestados, pessoas presentes, autores convidados e leitores cadastrados.
 
 Você consegue descobrir quem pegou o manuscrito?
+
+Exercício criado pelaa instrutora Leticia Pires no bootcamp Engenharia de Dados da comunidade Data Girls.
